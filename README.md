@@ -5,6 +5,7 @@ This repository contains the tests for techChallenge of web application, these t
 Getting Started
 Run all tests:
 > mvn clean test
+
 > **Extended HTML report**:/TrustTestAutomation/TrustwalletTestReport.html
 
 Test Framework Code Guidelines
