@@ -10,12 +10,15 @@ Run all tests:
 
 Test Framework Code Guidelines
 > **TEST CLASSE**
-These classes are written in **com.Trust.android.Tests** files. They should be easily readable and should just contain Trust wallet scenarios. 
+These classes are written in **com.Trust.android.Tests** files. They should be easily readable and should just contain Trust wallet scenarios.
+> 
 > **TEST PAGE OBJECT CLASS**
 A Page Class/Object is an object-oriented class that serves as an representation of a page in your application. The test class then use the methods of these page classes whenever they need to interact with the UI of that screen. The benefit is that if the UI changes, the tests themselves don’t need to change, only the code within the Page Class. Subsequently all changes to support the new UI are located in one place.
-These classes are written in **com.Trust.android.PageObjects** files. They should be easily readable and should just contain Trust wallet Page Objects. 
+These classes are written in **com.Trust.android.PageObjects** files. They should be easily readable and should just contain Trust wallet Page Objects.
+> 
 > **TEST LOCATORS CLASS**
-These classes are written in **com.Trust.apps.Locators** files. They should be easily readable and should just contain Trust wallet element locators. 
+These classes are written in **com.Trust.apps.Locators** files. They should be easily readable and should just contain Trust wallet element locators.
+> 
 > **TEST ANDROID UTILS CLASS**
 These classes are written in **com.Trust.apps.utils** files. They should be easily readable and should just contain Trust wallet navigation utils.
 
