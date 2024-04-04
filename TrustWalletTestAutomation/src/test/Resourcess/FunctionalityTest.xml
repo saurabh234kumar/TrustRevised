@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Trust  Automation Test Suite"  verbose="10">
+  
+ 
+ <!--   Android test execution --> 
+ 
+		  <test name="Check trust wallet journey as guest" preserve-order="true">
+		  <classes>
+		    <class name="com.Trust.android.Tests.TC_ClickGetStarted"/>
+		  </classes>
+		  </test>
+
+</suite>
