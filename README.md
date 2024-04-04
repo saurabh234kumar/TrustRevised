@@ -1,6 +1,6 @@
 # TrustRevised
 Summary
-This repository contains the tests for techChallenge of web application, these tests are developed using Selenium, POM, Maven, TestNG
+This repository contains the tests for techChallenge of web application, these tests are developed using Selenium, POM, Maven, TestNG, Extent report
 
 Getting Started
 Run all tests:
