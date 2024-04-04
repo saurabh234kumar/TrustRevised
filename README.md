@@ -69,4 +69,8 @@ Location: TrustTestAutomation/pom.xml
 			<artifactId>extentreports</artifactId>
 			<version>3.1.5</version>
 		</dependency>
-		
+
+
+  
+>**Future enhancement**
+Screenshot creation and email generation from POM file
